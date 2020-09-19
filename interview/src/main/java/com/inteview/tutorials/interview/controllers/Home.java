@@ -8,7 +8,7 @@ public class Home {
     
     @RequestMapping("/")
     public String getHomePage(){
-        return "b";
+        return "basd";
     }
 
 }
